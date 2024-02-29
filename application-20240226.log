@@ -1,0 +1,220 @@
+2024-02-26 15:01:51.238 [main] INFO  stepDefinition.Signup - Chrome Driver is initlized
+2024-02-26 15:02:33.244 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-26 15:02:33.271 [main] INFO  stepDefinition.Signup - 
+2024-02-26 15:02:33.964 [main] INFO  stepDefinition.Signup - FirstName is entered
+2024-02-26 15:02:34.395 [main] INFO  stepDefinition.Signup - Lastname is entered
+2024-02-26 15:02:34.600 [main] INFO  stepDefinition.Signup - Gender is selected
+2024-02-26 15:02:34.905 [main] INFO  stepDefinition.Signup - Experience in years is entered
+2024-02-26 15:02:35.364 [main] INFO  stepDefinition.Signup - Valid date is entered
+2024-02-26 15:02:35.518 [main] INFO  stepDefinition.Signup - Profession details are entered
+2024-02-26 15:14:26.546 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-26 15:14:54.015 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-26 15:14:54.038 [main] INFO  stepDefinition.Signup - Page Title is:
+2024-02-26 15:14:54.638 [main] INFO  stepDefinition.Signup - FirstName is entered
+2024-02-26 15:14:55.070 [main] INFO  stepDefinition.Signup - LastName is entered
+2024-02-26 15:14:55.240 [main] INFO  stepDefinition.Signup - Gender is selected
+2024-02-26 15:14:55.530 [main] INFO  stepDefinition.Signup - Experience in years is entered
+2024-02-26 15:14:55.901 [main] INFO  stepDefinition.Signup - Valid date is entered
+2024-02-26 15:14:56.062 [main] INFO  stepDefinition.Signup - Profession details are entered
+2024-02-26 15:16:03.755 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-26 15:16:31.445 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-26 15:16:31.470 [main] INFO  stepDefinition.Signup - Page Title is:
+2024-02-26 15:16:32.033 [main] INFO  stepDefinition.Signup - FirstName is entered
+2024-02-26 15:16:32.497 [main] INFO  stepDefinition.Signup - LastName is entered
+2024-02-26 15:16:32.661 [main] INFO  stepDefinition.Signup - Gender is selected
+2024-02-26 15:16:32.912 [main] INFO  stepDefinition.Signup - Experience in years is entered
+2024-02-26 15:16:33.265 [main] INFO  stepDefinition.Signup - Valid date is entered
+2024-02-26 15:16:33.407 [main] INFO  stepDefinition.Signup - Profession details are entered
+2024-02-26 15:16:39.080 [main] INFO  stepDefinition.Signup - https://www.techlistic.com/p/selenium-practice-form.html
+2024-02-26 15:16:39.098 [main] INFO  stepDefinition.Signup - 
+2024-02-26 15:35:30.807 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-26 15:35:59.633 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-26 15:35:59.654 [main] INFO  stepDefinition.Signup - Page Title is:
+2024-02-26 15:36:00.527 [main] INFO  stepDefinition.Signup - FirstName is entered
+2024-02-26 15:36:01.004 [main] INFO  stepDefinition.Signup - LastName is entered
+2024-02-26 15:36:01.211 [main] INFO  stepDefinition.Signup - Gender is selected
+2024-02-26 15:36:01.621 [main] INFO  stepDefinition.Signup - Experience in years is entered
+2024-02-26 15:36:02.066 [main] INFO  stepDefinition.Signup - Valid date is entered
+2024-02-26 15:36:02.285 [main] INFO  stepDefinition.Signup - Profession details are entered
+2024-02-26 15:36:08.054 [main] INFO  stepDefinition.Signup - https://www.techlistic.com/p/selenium-practice-form.html
+2024-02-26 15:36:08.067 [main] INFO  stepDefinition.Signup - 
+2024-02-26 15:47:08.251 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-26 17:32:04.645 [main] INFO  stepDefinition.HandlingTables - Chrome Driver is initialized
+2024-02-26 17:32:57.546 [main] INFO  stepDefinition.HandlingTables - Demo Web Tables page is launched
+2024-02-26 18:26:46.883 [main] INFO  stepDefinition.HandlingTables - Chrome Driver is initialized
+2024-02-26 18:27:18.448 [main] INFO  stepDefinition.HandlingTables - Demo Web Tables page is launched
+2024-02-26 18:27:18.676 [main] INFO  stepDefinition.HandlingTables - Cell Value is Google
+2024-02-26 18:27:18.725 [main] INFO  stepDefinition.HandlingTables - Cell Value is Maria Anders
+2024-02-26 18:27:18.781 [main] INFO  stepDefinition.HandlingTables - Cell Value is Germany
+2024-02-26 18:27:18.917 [main] INFO  stepDefinition.HandlingTables - Cell Value is Meta
+2024-02-26 18:27:18.985 [main] INFO  stepDefinition.HandlingTables - Cell Value is Francisco Chang
+2024-02-26 18:27:19.076 [main] INFO  stepDefinition.HandlingTables - Cell Value is Mexico
+2024-02-26 18:27:19.128 [main] INFO  stepDefinition.HandlingTables - Cell Value is Microsoft
+2024-02-26 18:27:19.183 [main] INFO  stepDefinition.HandlingTables - Cell Value is Roland Mendel
+2024-02-26 18:27:19.242 [main] INFO  stepDefinition.HandlingTables - Cell Value is Austria
+2024-02-26 18:27:19.296 [main] INFO  stepDefinition.HandlingTables - Cell Value is Island Trading
+2024-02-26 18:27:19.359 [main] INFO  stepDefinition.HandlingTables - Cell Value is Helen Bennett
+2024-02-26 18:27:19.452 [main] INFO  stepDefinition.HandlingTables - Cell Value is UK
+2024-02-26 18:27:19.508 [main] INFO  stepDefinition.HandlingTables - Cell Value is Adobe
+2024-02-26 18:27:19.563 [main] INFO  stepDefinition.HandlingTables - Cell Value is Yoshi Tannamuri
+2024-02-26 18:27:19.620 [main] INFO  stepDefinition.HandlingTables - Cell Value is Canada
+2024-02-26 18:50:30.659 [main] INFO  stepDefinition.HandlingTables - Chrome Driver is initialized
+2024-02-26 18:51:19.160 [main] INFO  stepDefinition.HandlingTables - Demo Web Tables page is launched
+2024-02-26 18:51:19.269 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:19.396 [main] INFO  stepDefinition.HandlingTables - Cell Value is Google
+2024-02-26 18:51:19.397 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:19.463 [main] INFO  stepDefinition.HandlingTables - Cell Value is Maria Anders
+2024-02-26 18:51:19.464 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:19.586 [main] INFO  stepDefinition.HandlingTables - Cell Value is Germany
+2024-02-26 18:51:19.587 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:19.663 [main] INFO  stepDefinition.HandlingTables - Cell Value is Meta
+2024-02-26 18:51:19.663 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:19.793 [main] INFO  stepDefinition.HandlingTables - Cell Value is Francisco Chang
+2024-02-26 18:51:19.794 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:19.916 [main] INFO  stepDefinition.HandlingTables - Cell Value is Mexico
+2024-02-26 18:51:19.917 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.011 [main] INFO  stepDefinition.HandlingTables - Cell Value is Microsoft
+2024-02-26 18:51:20.011 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.075 [main] INFO  stepDefinition.HandlingTables - Cell Value is Roland Mendel
+2024-02-26 18:51:20.076 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.140 [main] INFO  stepDefinition.HandlingTables - Cell Value is Austria
+2024-02-26 18:51:20.141 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.200 [main] INFO  stepDefinition.HandlingTables - Cell Value is Island Trading
+2024-02-26 18:51:20.201 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.267 [main] INFO  stepDefinition.HandlingTables - Cell Value is Helen Bennett
+2024-02-26 18:51:20.267 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.328 [main] INFO  stepDefinition.HandlingTables - Cell Value is UK
+2024-02-26 18:51:20.329 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.410 [main] INFO  stepDefinition.HandlingTables - Cell Value is Adobe
+2024-02-26 18:51:20.410 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.466 [main] INFO  stepDefinition.HandlingTables - Cell Value is Yoshi Tannamuri
+2024-02-26 18:51:20.466 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 18:51:20.525 [main] INFO  stepDefinition.HandlingTables - Cell Value is Canada
+2024-02-26 18:51:20.648 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:20.710 [main] INFO  stepDefinition.HandlingTables - Cell Value is UAE
+2024-02-26 18:51:20.710 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:20.769 [main] INFO  stepDefinition.HandlingTables - Cell Value is Dubai
+2024-02-26 18:51:20.770 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:20.835 [main] INFO  stepDefinition.HandlingTables - Cell Value is 829m
+2024-02-26 18:51:20.836 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:20.911 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2010
+2024-02-26 18:51:20.911 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:20.971 [main] INFO  stepDefinition.HandlingTables - Cell Value is 1
+2024-02-26 18:51:20.971 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.029 [main] INFO  stepDefinition.HandlingTables - Cell Value is 
+2024-02-26 18:51:21.029 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.086 [main] INFO  stepDefinition.HandlingTables - Cell Value is Saudi Arabia
+2024-02-26 18:51:21.087 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.149 [main] INFO  stepDefinition.HandlingTables - Cell Value is Mecca
+2024-02-26 18:51:21.149 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.244 [main] INFO  stepDefinition.HandlingTables - Cell Value is 601m
+2024-02-26 18:51:21.244 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.309 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2012
+2024-02-26 18:51:21.310 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.379 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2
+2024-02-26 18:51:21.379 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.441 [main] INFO  stepDefinition.HandlingTables - Cell Value is 
+2024-02-26 18:51:21.441 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.499 [main] INFO  stepDefinition.HandlingTables - Cell Value is Taiwan
+2024-02-26 18:51:21.500 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.559 [main] INFO  stepDefinition.HandlingTables - Cell Value is Taipei
+2024-02-26 18:51:21.559 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.622 [main] INFO  stepDefinition.HandlingTables - Cell Value is 509m
+2024-02-26 18:51:21.622 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.681 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2004
+2024-02-26 18:51:21.681 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.740 [main] INFO  stepDefinition.HandlingTables - Cell Value is 3
+2024-02-26 18:51:21.741 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.799 [main] INFO  stepDefinition.HandlingTables - Cell Value is 
+2024-02-26 18:51:21.799 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.863 [main] INFO  stepDefinition.HandlingTables - Cell Value is China
+2024-02-26 18:51:21.863 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.932 [main] INFO  stepDefinition.HandlingTables - Cell Value is Shanghai
+2024-02-26 18:51:21.932 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:21.996 [main] INFO  stepDefinition.HandlingTables - Cell Value is 492m
+2024-02-26 18:51:21.996 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:22.053 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2008
+2024-02-26 18:51:22.053 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:22.112 [main] INFO  stepDefinition.HandlingTables - Cell Value is 4
+2024-02-26 18:51:22.113 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 18:51:22.170 [main] INFO  stepDefinition.HandlingTables - Cell Value is 
+2024-02-26 19:02:19.176 [main] INFO  stepDefinition.HandlingTables - Chrome Driver is initialized
+2024-02-26 19:03:05.727 [main] INFO  stepDefinition.HandlingTables - Demo Web Tables page is launched
+2024-02-26 19:03:05.896 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:05.975 [main] INFO  stepDefinition.HandlingTables - Cell Value is Google
+2024-02-26 19:03:05.975 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.023 [main] INFO  stepDefinition.HandlingTables - Cell Value is Maria Anders
+2024-02-26 19:03:06.024 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.072 [main] INFO  stepDefinition.HandlingTables - Cell Value is Germany
+2024-02-26 19:03:06.072 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.133 [main] INFO  stepDefinition.HandlingTables - Cell Value is Meta
+2024-02-26 19:03:06.134 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.213 [main] INFO  stepDefinition.HandlingTables - Cell Value is Francisco Chang
+2024-02-26 19:03:06.214 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.375 [main] INFO  stepDefinition.HandlingTables - Cell Value is Mexico
+2024-02-26 19:03:06.375 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.440 [main] INFO  stepDefinition.HandlingTables - Cell Value is Microsoft
+2024-02-26 19:03:06.440 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.507 [main] INFO  stepDefinition.HandlingTables - Cell Value is Roland Mendel
+2024-02-26 19:03:06.507 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.576 [main] INFO  stepDefinition.HandlingTables - Cell Value is Austria
+2024-02-26 19:03:06.577 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.640 [main] INFO  stepDefinition.HandlingTables - Cell Value is Island Trading
+2024-02-26 19:03:06.641 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.705 [main] INFO  stepDefinition.HandlingTables - Cell Value is Helen Bennett
+2024-02-26 19:03:06.706 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.772 [main] INFO  stepDefinition.HandlingTables - Cell Value is UK
+2024-02-26 19:03:06.772 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.836 [main] INFO  stepDefinition.HandlingTables - Cell Value is Adobe
+2024-02-26 19:03:06.837 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.895 [main] INFO  stepDefinition.HandlingTables - Cell Value is Yoshi Tannamuri
+2024-02-26 19:03:06.895 [main] INFO  stepDefinition.HandlingTables - Printing the static table values
+2024-02-26 19:03:06.952 [main] INFO  stepDefinition.HandlingTables - Cell Value is Canada
+2024-02-26 19:03:07.111 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.180 [main] INFO  stepDefinition.HandlingTables - Cell Value is UAE
+2024-02-26 19:03:07.180 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.247 [main] INFO  stepDefinition.HandlingTables - Cell Value is Dubai
+2024-02-26 19:03:07.248 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.319 [main] INFO  stepDefinition.HandlingTables - Cell Value is 829m
+2024-02-26 19:03:07.319 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.386 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2010
+2024-02-26 19:03:07.387 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.452 [main] INFO  stepDefinition.HandlingTables - Cell Value is 1
+2024-02-26 19:03:07.453 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.529 [main] INFO  stepDefinition.HandlingTables - Cell Value is 
+2024-02-26 19:03:07.529 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.610 [main] INFO  stepDefinition.HandlingTables - Cell Value is Saudi Arabia
+2024-02-26 19:03:07.610 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.675 [main] INFO  stepDefinition.HandlingTables - Cell Value is Mecca
+2024-02-26 19:03:07.676 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.735 [main] INFO  stepDefinition.HandlingTables - Cell Value is 601m
+2024-02-26 19:03:07.736 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.797 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2012
+2024-02-26 19:03:07.798 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.862 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2
+2024-02-26 19:03:07.863 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.921 [main] INFO  stepDefinition.HandlingTables - Cell Value is 
+2024-02-26 19:03:07.921 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:07.973 [main] INFO  stepDefinition.HandlingTables - Cell Value is Taiwan
+2024-02-26 19:03:07.973 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.024 [main] INFO  stepDefinition.HandlingTables - Cell Value is Taipei
+2024-02-26 19:03:08.024 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.072 [main] INFO  stepDefinition.HandlingTables - Cell Value is 509m
+2024-02-26 19:03:08.073 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.127 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2004
+2024-02-26 19:03:08.128 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.177 [main] INFO  stepDefinition.HandlingTables - Cell Value is 3
+2024-02-26 19:03:08.177 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.221 [main] INFO  stepDefinition.HandlingTables - Cell Value is 
+2024-02-26 19:03:08.221 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.271 [main] INFO  stepDefinition.HandlingTables - Cell Value is China
+2024-02-26 19:03:08.271 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.315 [main] INFO  stepDefinition.HandlingTables - Cell Value is Shanghai
+2024-02-26 19:03:08.316 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.363 [main] INFO  stepDefinition.HandlingTables - Cell Value is 492m
+2024-02-26 19:03:08.364 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.404 [main] INFO  stepDefinition.HandlingTables - Cell Value is 2008
+2024-02-26 19:03:08.405 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.444 [main] INFO  stepDefinition.HandlingTables - Cell Value is 4
+2024-02-26 19:03:08.445 [main] INFO  stepDefinition.HandlingTables - Printing the Dynamic table values
+2024-02-26 19:03:08.485 [main] INFO  stepDefinition.HandlingTables - Cell Value is 

@@ -1,0 +1,124 @@
+2024-02-27 13:27:19.090 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-27 13:38:29.019 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-27 14:53:33.143 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 14:53:34.414 [main] INFO  stepDefinition.GoogleSearch - Google search page is not displayed
+2024-02-27 14:53:34.525 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 14:56:44.508 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 14:56:47.279 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 14:56:47.377 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 14:57:55.596 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 14:57:57.165 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 14:57:57.276 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 14:57:57.971 [main] INFO  stepDefinition.GoogleSearch - Browser is closed
+2024-02-27 14:58:52.550 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 14:58:54.124 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 14:58:54.234 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 14:58:54.931 [main] INFO  stepDefinition.GoogleSearch - Browser is closed
+2024-02-27 14:59:23.747 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 14:59:25.525 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 14:59:25.636 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 14:59:26.325 [main] INFO  stepDefinition.GoogleSearch - Browser is closed
+2024-02-27 14:59:49.919 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 14:59:51.561 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 14:59:51.675 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 15:00:13.192 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 15:00:14.694 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 15:00:14.830 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 15:01:33.263 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 15:01:34.808 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 15:01:34.930 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 15:02:09.217 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium
+2024-02-27 15:02:18.099 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium interview questions
+2024-02-27 15:02:48.939 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium download
+2024-02-27 15:03:10.183 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium webdriver
+2024-02-27 15:03:10.978 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium tutorial
+2024-02-27 15:03:11.566 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium testing
+2024-02-27 15:03:12.272 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium rich foods
+2024-02-27 15:03:18.227 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium dev
+2024-02-27 15:03:19.626 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium ide
+2024-02-27 15:03:21.698 [main] INFO  stepDefinition.GoogleSearch - Search suggestionsselenium with python
+2024-02-27 15:22:04.189 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 15:22:07.649 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 15:22:07.757 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 15:24:13.546 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 15:24:15.346 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 15:24:15.465 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 15:28:31.136 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 15:28:32.453 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 15:28:32.565 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 15:28:33.259 [main] INFO  stepDefinition.GoogleSearch - Browser is closed
+2024-02-27 15:32:04.889 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-27 15:32:06.825 [main] INFO  stepDefinition.GoogleSearch - Google search page is displayed
+2024-02-27 15:32:06.936 [main] INFO  stepDefinition.GoogleSearch - Valid text is entered in to the Search bar
+2024-02-27 15:32:07.055 [main] INFO  stepDefinition.GoogleSearch - Search suggestions  selenium
+2024-02-27 15:32:07.086 [main] INFO  stepDefinition.GoogleSearch - Search suggestions  selenium interview questions
+2024-02-27 15:32:07.111 [main] INFO  stepDefinition.GoogleSearch - Search suggestions  selenium download
+2024-02-27 15:32:07.140 [main] INFO  stepDefinition.GoogleSearch - Search suggestions  selenium webdriver
+2024-02-27 15:32:07.172 [main] INFO  stepDefinition.GoogleSearch - Search suggestions  selenium tutorial
+2024-02-27 15:32:07.505 [main] INFO  stepDefinition.GoogleSearch - Selenium tutorial is clicked
+2024-02-27 15:32:08.214 [main] INFO  stepDefinition.GoogleSearch - Browser is closed
+2024-02-27 18:21:30.127 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 18:21:32.343 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 18:21:32.827 [main] INFO  stepDefinition.WindowsAndAlerts - Cliked on Open Winow button
+2024-02-27 18:32:36.020 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 18:32:42.068 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 18:32:42.531 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 18:40:04.989 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 18:40:08.672 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 18:40:09.066 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 18:40:10.961 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 18:51:14.881 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 18:51:17.447 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 18:51:17.869 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 18:51:18.927 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 18:52:10.093 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 18:52:12.991 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 18:52:13.452 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 18:52:14.402 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 20:58:21.507 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 20:58:24.044 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 20:58:24.542 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 20:58:28.716 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 20:59:20.198 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 20:59:22.727 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 20:59:23.203 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 20:59:24.227 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 21:07:04.167 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 21:07:06.869 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 21:07:07.351 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 21:07:08.704 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 22:35:24.410 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 22:35:27.132 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 22:35:27.546 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 22:35:28.517 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 22:42:34.137 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 22:42:36.996 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 22:42:37.417 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 22:42:38.302 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 22:43:29.628 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 22:43:31.945 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 22:43:32.421 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 22:44:12.009 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 22:44:27.972 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 22:44:28.322 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 22:44:30.742 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 22:44:31.795 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 22:55:46.012 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 22:55:50.493 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 22:55:50.907 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 22:55:52.461 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 23:00:51.510 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 23:00:54.456 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 23:00:54.845 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 23:00:55.976 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 23:07:56.326 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 23:07:59.468 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 23:07:59.869 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 23:08:00.850 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 23:21:32.893 [main] INFO  stepDefinition.WindowsAndAlerts - Chrome Driver is initialized
+2024-02-27 23:21:38.053 [main] INFO  stepDefinition.WindowsAndAlerts - Practice website for Windows and Alerts is launched
+2024-02-27 23:21:38.503 [main] INFO  stepDefinition.WindowsAndAlerts - Clicked on Open Window button
+2024-02-27 23:21:39.474 [main] INFO  stepDefinition.WindowsAndAlerts - Image is displayed
+2024-02-27 23:21:39.874 [main] INFO  stepDefinition.WindowsAndAlerts - Hello Test, share this practice page and share your knowledge
+2024-02-27 23:21:39.989 [main] INFO  stepDefinition.WindowsAndAlerts - Hello , Are you sure you want to confirm?
+2024-02-27 23:21:40.789 [main] INFO  stepDefinition.WindowsAndAlerts - Browser is closed
