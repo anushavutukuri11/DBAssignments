@@ -7,6 +7,7 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import factory.DriverFactory;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -14,14 +15,11 @@ import io.cucumber.java.en.When;
 import pages.EcommWebsitePage;
 
 public class EcommWebsite {
-	WebDriver driver;
+	WebDriver driver  = DriverFactory.getDriver();
 	
 	private static final Logger logger = LogManager.getLogger(GoogleSearch.class.getName());
 	@Given("Launch the Ecommerce Website to perform operations")
 	public void launch_the_ecommerce_website_to_perform_operations() {
-		driver = new ChromeDriver();
-		logger.info("Chrome Driver is initialized");
-		driver.manage().window().maximize();
 		driver.get("https://magento.softwaretestingboard.com");
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
 		logger.info("Magento Ecommerce website is launched");
@@ -34,17 +32,11 @@ public class EcommWebsite {
 		Epage.addToCart();	   
 	}
 
-	@And("and checkout the cart")
-	public void and_checkout_the_cart() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	@Then("Checkout the cart")
+	public void checkout_the_cart() {
+	   logger.info("Unable to checkout the cart as the website is for practing automation only not to fullfill the orders");
 	}
 
-	@Then("User is quit the chrome browser")
-	public void user_is_quit_the_chrome_browser() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
-	}
-
+	
 
 }

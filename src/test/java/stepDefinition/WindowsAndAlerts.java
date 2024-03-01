@@ -15,6 +15,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import factory.DriverFactory;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -24,13 +25,10 @@ import pages.WindowsAndAlertsPage;
 public class WindowsAndAlerts {
 	private static final Logger logger = LogManager.getLogger(WindowsAndAlerts.class.getName());
 
-	WebDriver driver;
+	WebDriver driver  = DriverFactory.getDriver();
 
 	@Given("Launch the chrome Browser to perform operations on windows and alerts in automation practice URL")
 	public void launch_the_chrome_browser_to_perform_operations_on_windows_and_alerts_in_automation_practice_url() {
-		driver = new ChromeDriver();
-		logger.info("Chrome Driver is initialized");
-		driver.manage().window().maximize();
 		driver.get("https://www.rahulshettyacademy.com/AutomationPractice/");
 		logger.info("Practice website for Windows and Alerts is launched");
 	}
@@ -63,7 +61,7 @@ public class WindowsAndAlerts {
 
 	}
 
-	@And("Perform the opertaions on Alerts")
+	@Then("Perform the opertaions on Alerts")
 	public void Perform_the_opertaions_on_alerts() {
 		WindowsAndAlertsPage WAPage = new WindowsAndAlertsPage(driver);
 		WAPage.EnterTextinAlertTextbox();
@@ -81,12 +79,6 @@ public class WindowsAndAlerts {
 			alert1.getText();
 			logger.info(alert1.getText());
 			alert1.accept();
-	}
-
-	@Then("User is able to  quit the chrome browser")
-	public void user_is_able_to_quit_the_chrome_browser() {
-		driver.quit();
-		logger.info("Browser is closed");
 	}
 
 }

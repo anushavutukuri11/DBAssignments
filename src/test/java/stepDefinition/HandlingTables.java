@@ -11,6 +11,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import factory.DriverFactory;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -23,13 +24,10 @@ public class HandlingTables {
 
 	private static final Logger logger = LogManager.getLogger(HandlingTables.class.getName());
 
-	WebDriver driver;
+	WebDriver driver  = DriverFactory.getDriver();
 
 	@Given("Launch the chrome Browser with Demotables URL")
 	public void launch_the_chrome_browser_with_demotables_url() {
-		driver = new ChromeDriver();
-		logger.info("Chrome Driver is initialized");
-		driver.manage().window().maximize();
 		driver.get("https://www.techlistic.com/2017/02/automate-demo-web-table-with-selenium.html");
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
 		logger.info("Demo Web Tables page is launched");
@@ -51,7 +49,7 @@ public class HandlingTables {
 
 	}
 
-	@When("Perform actions on Dynamic webtable")
+	@Then("Perform actions on Dynamic webtable")
 	public void perform_actions_on_dynamic_webtable() {
 		HandlingTablesPage handlingTablesPage = new HandlingTablesPage(driver);
 		handlingTablesPage.ScrollToStaticTable();
@@ -67,13 +65,6 @@ public class HandlingTables {
 				logger.info("Cell Value is " + CellValue);
 			}
 		}
-
-	}
-
-	@Then("User is quit the browser")
-	public void user_is_quit_the_browser() {
-		driver.quit();
-		logger.info("Browser is closed");
 
 	}
 

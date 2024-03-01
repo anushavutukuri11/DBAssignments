@@ -10,6 +10,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import factory.DriverFactory;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -20,32 +21,17 @@ import org.openqa.selenium.WebDriver;
 public class Signup {
 	private static final Logger logger = LogManager.getLogger(Signup.class.getName());
 
-	WebDriver driver;
+	WebDriver driver  = DriverFactory.getDriver();
 
-	@Given("Launch the chrome Browser")
-	public void launch_the_chrome_browser() {
-		driver = new ChromeDriver();
-		logger.info("Chrome Driver is initialized");
-		driver.manage().window().maximize();
-		
 
-	}
-
-	@When("The browser is launched enter the Demo automation Practice form URL")
+	@Given("The browser is launched enter the Demo automation Practice form URL")
 	public void the_browser_is_launched_enter_the_demo_automation_practice_form_url() {
 		driver.get("https://www.techlistic.com/p/selenium-practice-form.html");
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
 		logger.info("Selenium Practice form is launched");
 	}
 
-	@Then("User is on Demo automation Practice form  page and verify the title of the webpage")
-	public void user_is_on_demo_automation_practice_form_page_and_verify_the_title_of_the_webpage() throws Exception {
-		logger.info("Page Title is:"+ driver.getTitle());
-		System.out.println(driver.getTitle());
-
-	}
-
-	@Given("Enter valid first name")
+	@And("Enter valid first name")
 	public void enter_valid_first_name() {
 		SignupPage signupPage = new SignupPage(driver);
 		signupPage.enterFirstName();
@@ -114,7 +100,7 @@ public class Signup {
 		signupPage.uploadImageorFile();
 	}
 
-	@And("Download the file")
+	@When("Download the file")
 	public void download_the_file() {
 		SignupPage signupPage = new SignupPage(driver);
 		signupPage.downloadFile();
@@ -122,19 +108,11 @@ public class Signup {
 
 	}
 
-	@When("Click on submit button")
+	@Then("Click on submit button")
 	public void click_on_submit_button() {
 		SignupPage signupPage = new SignupPage(driver);
 		signupPage.clickSubmitBtn();
 
-	}
-
-	@Then("Verify the title of the page")
-	public void verify_the_title_of_the_page() {
-		driver.getCurrentUrl();
-		driver.getTitle();
-		logger.info(driver.getCurrentUrl());
-		logger.info(driver.getTitle());
 	}
 
 }

@@ -1,0 +1,42 @@
+2024-02-29 12:59:49.120 [main] INFO  stepDefinition.GoogleSearch - Chrome Driver is initialized
+2024-02-29 12:59:51.351 [main] INFO  stepDefinition.GoogleSearch - Magento Ecommerce website is launched
+2024-02-29 13:16:02.471 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-29 13:16:12.286 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-29 13:16:12.455 [main] INFO  stepDefinition.Signup - Page Title is:
+2024-02-29 13:16:23.225 [main] INFO  stepDefinition.Signup - FirstName is entered
+2024-02-29 13:16:23.646 [main] INFO  stepDefinition.Signup - LastName is entered
+2024-02-29 13:16:23.853 [main] INFO  stepDefinition.Signup - Gender is selected
+2024-02-29 13:16:24.128 [main] INFO  stepDefinition.Signup - Experience in years is entered
+2024-02-29 13:16:24.571 [main] INFO  stepDefinition.Signup - Valid date is entered
+2024-02-29 13:16:24.952 [main] INFO  stepDefinition.Signup - Profession details are entered
+2024-02-29 13:17:05.423 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-29 13:17:37.198 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-29 13:17:37.218 [main] INFO  stepDefinition.Signup - Page Title is:
+2024-02-29 13:17:37.865 [main] INFO  stepDefinition.Signup - FirstName is entered
+2024-02-29 13:17:38.282 [main] INFO  stepDefinition.Signup - LastName is entered
+2024-02-29 13:17:38.480 [main] INFO  stepDefinition.Signup - Gender is selected
+2024-02-29 13:17:38.777 [main] INFO  stepDefinition.Signup - Experience in years is entered
+2024-02-29 13:17:39.230 [main] INFO  stepDefinition.Signup - Valid date is entered
+2024-02-29 13:17:39.409 [main] INFO  stepDefinition.Signup - Profession details are entered
+2024-02-29 13:18:26.894 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-29 13:18:41.450 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-29 13:18:53.710 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-29 13:19:38.138 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-29 13:19:38.160 [main] INFO  stepDefinition.Signup - Page Title is:
+2024-02-29 13:19:38.730 [main] INFO  stepDefinition.Signup - FirstName is entered
+2024-02-29 13:19:39.107 [main] INFO  stepDefinition.Signup - LastName is entered
+2024-02-29 13:19:39.268 [main] INFO  stepDefinition.Signup - Gender is selected
+2024-02-29 13:19:39.523 [main] INFO  stepDefinition.Signup - Experience in years is entered
+2024-02-29 13:19:39.941 [main] INFO  stepDefinition.Signup - Valid date is entered
+2024-02-29 13:19:40.147 [main] INFO  stepDefinition.Signup - Profession details are entered
+2024-02-29 13:33:51.500 [main] INFO  stepDefinition.Signup - Chrome Driver is initialized
+2024-02-29 13:34:21.606 [main] INFO  stepDefinition.Signup - Selenium Practice form is launched
+2024-02-29 13:34:21.628 [main] INFO  stepDefinition.Signup - Page Title is:
+2024-02-29 13:34:22.262 [main] INFO  stepDefinition.Signup - FirstName is entered
+2024-02-29 13:34:22.609 [main] INFO  stepDefinition.Signup - LastName is entered
+2024-02-29 13:34:22.766 [main] INFO  stepDefinition.Signup - Gender is selected
+2024-02-29 13:34:22.969 [main] INFO  stepDefinition.Signup - Experience in years is entered
+2024-02-29 13:34:23.641 [main] INFO  stepDefinition.Signup - Valid date is entered
+2024-02-29 13:34:23.829 [main] INFO  stepDefinition.Signup - Profession details are entered
+2024-02-29 13:34:30.062 [main] INFO  stepDefinition.Signup - https://www.techlistic.com/p/selenium-practice-form.html
+2024-02-29 13:34:30.091 [main] INFO  stepDefinition.Signup - 

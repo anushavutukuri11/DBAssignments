@@ -15,6 +15,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import factory.DriverFactory;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -24,21 +25,18 @@ import pages.GoogleSearchPage;
 public class GoogleSearch {
 	private static final Logger logger = LogManager.getLogger(GoogleSearch.class.getName());
 
-	WebDriver driver;
+	WebDriver driver  = DriverFactory.getDriver();
 
 	@Given("Launch the chrome Browser to perform search operations")
 	public void launch_the_chrome_browser_to_perform_search_operations() {
-		driver = new ChromeDriver();
-		logger.info("Chrome Driver is initialized");
-		driver.manage().window().maximize();
 		driver.get("https://www.google.com/");
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
 		logger.info("Google search page is displayed");
 	}
 
 	@SuppressWarnings("deprecation")
-	@When("Perform the search action the search bar")
-	public void perform_the_search_action_the_search_bar() {
+	@When("Perform the search action on the search bar")
+	public void perform_the_search_action_on_the_search_bar() {
 
 		GoogleSearchPage GPage = new GoogleSearchPage(driver);
 		GPage.EnterTextinSearchBar();
@@ -47,7 +45,7 @@ public class GoogleSearch {
 		
 	}
 
-	@And("Print the respective suggestion and click the respective suggestion")
+	@Then("Print the respective suggestion and click the respective suggestion")
 	public void print_the_respective_suggestion_and_click_the_respective_suggestion() {
 		List<WebElement> suggestions = driver
 				.findElements(By.xpath("//ul[@role='listbox']//li/descendant::div[@class = 'wM6W7d']/span"));
@@ -67,10 +65,6 @@ public class GoogleSearch {
 
 	}
 
-	@Then("User is quit the  chrome browser")
-	public void user_is_quit_the_chrome_browser() {
-		driver.quit();
-		logger.info("Browser is closed");
-	}
+	
 
 }
